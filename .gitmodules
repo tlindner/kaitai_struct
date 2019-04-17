@@ -9,10 +9,10 @@
 	url = https://github.com/kaitai-io/kaitai_struct_ruby_runtime.git
 [submodule "tests"]
 	path = tests
-	url = https://github.com/kaitai-io/kaitai_struct_tests.git
+	url = https://github.com/tlindner/kaitai_struct_tests.git
 [submodule "compiler"]
 	path = compiler
-	url = https://github.com/kaitai-io/kaitai_struct_compiler.git
+	url = https://github.com/tlindner/kaitai_struct_compiler.git
 [submodule "runtime/javascript"]
 	path = runtime/javascript
 	url = https://github.com/kaitai-io/kaitai_struct_javascript_runtime.git
@@ -39,10 +39,13 @@
 	url = https://github.com/kaitai-io/kaitai_struct_benchmarks
 [submodule "doc"]
 	path = doc
-	url = https://github.com/kaitai-io/kaitai_struct_doc
+	url = https://github.com/tlindner/kaitai_struct_doc
 [submodule "runtime/go"]
 	path = runtime/go
 	url = https://github.com/kaitai-io/kaitai_struct_go_runtime
 [submodule "runtime/lua"]
 	path = runtime/lua
 	url = https://github.com/kaitai-io/kaitai_struct_lua_runtime
+[submodule "runtime/objc"]
+	path = runtime/objc
+	url = https://github.com/tlindner/kaitai_struct_objc_runtime
