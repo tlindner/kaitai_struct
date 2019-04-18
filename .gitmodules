@@ -48,4 +48,4 @@
 	url = https://github.com/kaitai-io/kaitai_struct_lua_runtime
 [submodule "runtime/objc"]
 	path = runtime/objc
-	url = https://github.com/tlindner/kaitai_struct_objc_runtime
+	url = https://github.com/tlindner/kaitai_struct_objc_runtime.git
